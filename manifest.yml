@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: LiJieCar
-  host: mybluemix
+  host: LiJieCar
   disk_quota: 1024M
